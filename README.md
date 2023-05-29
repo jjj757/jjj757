@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjj757
+- 👋 Hi, I’m @Jeremy
 - 👀 I’m interested in soccer, Africa, economics, and coding!
 - 🌱 I’m currently learning SQL and Tableau
 - 💞️ I’m looking to collaborate on anything interesting
